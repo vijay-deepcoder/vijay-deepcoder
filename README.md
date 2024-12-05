@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vijay</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **nestjs**
+- 🌱 I’m currently devloper of **nestjs**
 
 - 💬 Ask me about **nestjs, expressjs, nodejs**
 
